@@ -1,6 +1,6 @@
 # Scientific Calculator
 
-![Calculator Screenshot](~/calculator-pj/cal-screenshot.png)
+![Calculator Screenshot](https://github.com/bazileros/Calculator-py/blob/main/cal-screenshot.png)
 
 ## Overview
 
